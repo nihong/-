@@ -4,3 +4,7 @@
 1.http://www.cocoachina.com/ios/20160602/16572.html
 
 关于socket套接字，以及“物-数-网-传-会-表-应”的再理解；
+
+2.http://www.imlifengfeng.com/blog/?p=487
+
+关于NSRunLoop的
