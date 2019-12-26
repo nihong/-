@@ -11,3 +11,7 @@
 * [关于NSRunLoop的](http://www.imlifengfeng.com/blog/?p=487)      
 
 * [Extension 与 Categroy 的区别--sunnyxx](https://blog.sunnyxx.com/2016/04/22/objc-class-extension-tips/)
+
+* [Carthage的安装和使用 (简书 90 👍)](https://www.jianshu.com/p/a734be794019)
+
+* [MVVM MVC 框架 比较](https://www.cnblogs.com/brycezhang/p/3840567.html)
