@@ -19,3 +19,5 @@
 * [了解NSHashTable和NSMapTable](https://juejin.im/post/5a321cba6fb9a0450671a42c)
 
 * [UIButton选中状态下的点击（普通转高亮  选中转高亮）](https://www.jianshu.com/p/57b2c41448bf)
+
+* [iOS @try @catch异常机制](https://www.jianshu.com/p/f28b9b3f8e44)
