@@ -30,6 +30,6 @@
 
 * [开源 - CoreFoundation](https://opensource.apple.com/tarballs/CF/)
 
-* [Apple 开源地址] (https://opensource.apple.com/tarballs/CF/)
+* [Apple 开源地址](https://opensource.apple.com/tarballs/CF/)
 
 
