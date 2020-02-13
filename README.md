@@ -32,4 +32,7 @@
 
 * [Apple 开源地址](https://opensource.apple.com/tarballs/CF/)
 
+* [《图解 HTTP》总结摘要](https://juejin.im/post/5872309261ff4b005c4580d4)
+
+* [SSL/TLS协议运行机制的概述 阮一峰](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
 
