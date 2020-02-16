@@ -42,5 +42,6 @@
 
 * [九种排序算法的可视化及比较 （冒泡、快速、归并排序）-- 知乎 2k👍](https://zhuanlan.zhihu.com/p/34421623)
 
-* [APP启动时间优化（QQ阅读、原理分析）](https://juejin.im/entry/5b63fb115188257bca291fbc)
+* [APP启动时间优化（QQ阅读、原理分析）](http://lingyuncxb.com/2018/01/30/iOS启动优化/)
 
+* [OC重要知识点 比较全面](https://juejin.im/post/5d7f35976fb9a06b20059680#heading-31)
