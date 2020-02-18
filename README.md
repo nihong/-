@@ -45,3 +45,6 @@
 * [APP启动时间优化（QQ阅读、原理分析）](http://lingyuncxb.com/2018/01/30/iOS启动优化/)
 
 * [OC重要知识点 比较全面](https://juejin.im/post/5d7f35976fb9a06b20059680#heading-31)
+
+* [iOS里的动态库和静态库 简书](https://www.jianshu.com/p/42891fb90304)
+
