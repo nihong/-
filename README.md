@@ -53,3 +53,7 @@
 runtime 方法分发->动态处理->消息转发 流程
 * [方法分发（方法调用 IMP Sel ）--深入理解 Objective-C 的方法调用流程](https://www.jianshu.com/p/114782a909f9)
 * [动态处理->消息转发](https://www.jianshu.com/p/5127ce0628be)
+
+* [NSException 崩溃拦截 黑魔法 重写](https://www.jianshu.com/p/05aad21e319e)
+* [iOS被开发者遗忘在角落的NSException](https://www.jianshu.com/p/05aad21e319e)
+* [预防程序崩溃 -- NSException | Runtime ｜ Method Swizzing ](https://www.jianshu.com/p/5d625f86bd02)
