@@ -49,3 +49,7 @@
 * [iOS里的动态库和静态库 简书](https://www.jianshu.com/p/42891fb90304)
 
 * [Runtime奇技淫巧之class_copyIvarList & class_copyPropertyList 简书](https://www.jianshu.com/p/cb55dbb72c84)
+
+runtime 方法分发->动态处理->消息转发 流程
+* [方法分发（方法调用 IMP Sel ）--深入理解 Objective-C 的方法调用流程](https://www.jianshu.com/p/114782a909f9)
+* [动态处理->消息转发](https://www.jianshu.com/p/5127ce0628be)
