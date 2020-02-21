@@ -57,3 +57,5 @@ runtime 方法分发->动态处理->消息转发 流程
 * [NSException 崩溃拦截 黑魔法 重写](https://www.jianshu.com/p/05aad21e319e)
 * [iOS被开发者遗忘在角落的NSException](https://www.jianshu.com/p/05aad21e319e)
 * [预防程序崩溃 -- NSException | Runtime ｜ Method Swizzing ](https://www.jianshu.com/p/5d625f86bd02)
+
+* [iOS分类(category),类扩展(extension)](https://www.jianshu.com/p/9e827a1708c6)
