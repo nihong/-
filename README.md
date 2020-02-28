@@ -61,3 +61,4 @@ runtime 方法分发->动态处理->消息转发 流程
 * [iOS分类(category),类扩展(extension)](https://www.jianshu.com/p/9e827a1708c6)
 
 * [Crash Type 及动态修复防止崩溃的方案](https://www.jianshu.com/p/02157577d4e7)
+* [系统原生崩溃收集 NSSetUncaughtExceptionHandler](https://www.jianshu.com/p/802f444d8905)
