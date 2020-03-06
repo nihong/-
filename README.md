@@ -62,3 +62,6 @@ runtime 方法分发->动态处理->消息转发 流程
 
 * [Crash Type 及动态修复防止崩溃的方案](https://www.jianshu.com/p/02157577d4e7)
 * [系统原生崩溃收集 NSSetUncaughtExceptionHandler](https://www.jianshu.com/p/802f444d8905)
+
+* [iOS 后台挂起相关](https://www.cnblogs.com/saytome/p/7080056.html)
+* [iOS后台运行的相关方案总结](https://ctinusdev.github.io/2016/05/10/BackgroundTask/)
