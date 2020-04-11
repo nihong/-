@@ -65,3 +65,5 @@ runtime 方法分发->动态处理->消息转发 流程
 
 * [iOS 后台挂起相关](https://www.cnblogs.com/saytome/p/7080056.html)
 * [iOS后台运行的相关方案总结](https://ctinusdev.github.io/2016/05/10/BackgroundTask/)
+
+* [app启动优化-美团](https://tech.meituan.com/2018/12/06/waimai-ios-optimizing-startup.html)
